@@ -1,0 +1,1 @@
+I developed this portfolio to demonstrate my expertise in HTML, CSS, and JavaScript. It highlights my ability to create dynamic, responsive, and visually appealing web applications. Through this portfolio, I aim to showcase my proficiency in front-end development and my commitment to continuous learning and improvement in the field.
